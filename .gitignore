@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project outputs (regenerate as needed)
+intelligent_cv_analyzer/data/results/*.csv
+intelligent_cv_analyzer/data/results/*.docx
+intelligent_cv_analyzer/data/results/charts/
+cv_analyzer.db
+
+# Logs
+logs/
+*.log
