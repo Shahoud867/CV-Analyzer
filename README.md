@@ -44,8 +44,21 @@ Notes:
 - Generated CSVs, charts, and the SQLite DB are ignored by `.gitignore`. Recreate using CLI or performance suite.
 - UML diagrams and project documentation available in `diagrams/` and `report.pdf`.
 
+## Scalability
+- Full dataset processed: 735 CV files (375 PDF + 360 DOCX) in `intelligent_cv_analyzer/data/cvs/DataSet`.
+- Compare All mode executes all three algorithms per CV, so total operations = files × 3.
+	- Example: 735 CVs × 3 algorithms = 2,205 analyses (as seen in GUI totals).
+- Performance benchmarking suite (sampling) produces 180 runs by default:
+	- 10 CVs × 3 jobs × 2 scenarios (Single/Multiple) × 3 algorithms = 180.
+
+Run a full-folder batch from CLI (Compare All):
+```powershell
+py -3 intelligent_cv_analyzer\app.py --analyze --title "Data Scientist" --keywords "Python, Machine Learning, SQL" --dataset "intelligent_cv_analyzer\data\cvs\DataSet" --algorithm "Compare All" --out intelligent_cv_analyzer\data\results\cli_analysis.csv
+```
+
+Tip: The GUI’s “Total CVs” in Compare All reflects total algorithm runs, not unique files.
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Contributors
-- Add names or GitHub handles here.
+
