@@ -8,8 +8,9 @@ An intelligent CV analysis system using classic string matching algorithms (Brut
 - GUI: `intelligent_cv_analyzer/gui`
 - Reports: `intelligent_cv_analyzer/reports`
 - Data: `intelligent_cv_analyzer/data`
+- Diagrams: `diagrams/` — UML diagrams (architecture, class, sequence, flowcharts) in PNG format
 
-See the detailed module docs in `intelligent_cv_analyzer/README.md`.
+See the detailed module docs in `intelligent_cv_analyzer/README.md` and `diagrams/README.md`.
 
 ## Requirements
 Python 3.10+ recommended. Install dependencies:
@@ -41,6 +42,7 @@ py -3 intelligent_cv_analyzer\app.py --report
 Notes:
 - Supported formats: PDF, DOCX. Legacy `.doc` is not supported.
 - Generated CSVs, charts, and the SQLite DB are ignored by `.gitignore`. Recreate using CLI or performance suite.
+- UML diagrams and project documentation available in `diagrams/` and `report.pdf`.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
