@@ -1,0 +1,109 @@
+cv_filename,cv_size,text_length,size_bucket,job_title,algorithm,keywords_count,scenario,execution_time,comparisons,relevance_score,matches_count
+21i0320.docx,29724,1616,Small,Data Scientist,Brute Force,1,Single,0.0,1648,1.0,1
+21i0320.docx,29724,1616,Small,Data Scientist,Rabin-Karp,1,Single,0.0,23,1.0,1
+21i0320.docx,29724,1616,Small,Data Scientist,KMP,1,Single,0.0,1648,1.0,1
+21i0320.docx,29724,1616,Small,Data Scientist,Brute Force,5,Multiple,0.000994,8430,0.63,3
+21i0320.docx,29724,1616,Small,Data Scientist,Rabin-Karp,5,Multiple,0.000999,119,0.63,3
+21i0320.docx,29724,1616,Small,Data Scientist,KMP,5,Multiple,0.001999,8396,0.63,3
+21i0320.docx,29724,1616,Small,Web Developer,Brute Force,1,Single,0.0,1622,1.0,1
+21i0320.docx,29724,1616,Small,Web Developer,Rabin-Karp,1,Single,0.0,28,1.0,1
+21i0320.docx,29724,1616,Small,Web Developer,KMP,1,Single,0.0,1622,1.0,1
+21i0320.docx,29724,1616,Small,Web Developer,Brute Force,6,Multiple,0.002259,10038,0.706667,4
+21i0320.docx,29724,1616,Small,Web Developer,Rabin-Karp,6,Multiple,0.002881,102,0.706667,4
+21i0320.docx,29724,1616,Small,Web Developer,KMP,6,Multiple,0.001016,10029,0.706667,4
+21i0320.docx,29724,1616,Small,Software Tester,Brute Force,1,Single,0.0,1709,0.0,0
+21i0320.docx,29724,1616,Small,Software Tester,Rabin-Karp,1,Single,0.0,17,0.0,0
+21i0320.docx,29724,1616,Small,Software Tester,KMP,1,Single,0.0,1699,0.0,0
+21i0320.docx,29724,1616,Small,Software Tester,Brute Force,5,Multiple,0.000943,8321,0.0,0
+21i0320.docx,29724,1616,Small,Software Tester,Rabin-Karp,5,Multiple,0.002002,79,0.0,0
+21i0320.docx,29724,1616,Small,Software Tester,KMP,5,Multiple,0.000996,8320,0.0,0
+21i0320.pdf,145558,1624,Small,Data Scientist,Brute Force,1,Single,0.0,1656,1.0,1
+21i0320.pdf,145558,1624,Small,Data Scientist,Rabin-Karp,1,Single,0.0,23,1.0,1
+21i0320.pdf,145558,1624,Small,Data Scientist,KMP,1,Single,0.000997,1656,1.0,1
+21i0320.pdf,145558,1624,Small,Data Scientist,Brute Force,5,Multiple,0.000999,8470,0.63,3
+21i0320.pdf,145558,1624,Small,Data Scientist,Rabin-Karp,5,Multiple,0.000997,119,0.63,3
+21i0320.pdf,145558,1624,Small,Data Scientist,KMP,5,Multiple,0.001002,8436,0.63,3
+21i0320.pdf,145558,1624,Small,Web Developer,Brute Force,1,Single,0.0,1630,1.0,1
+21i0320.pdf,145558,1624,Small,Web Developer,Rabin-Karp,1,Single,0.001004,27,1.0,1
+21i0320.pdf,145558,1624,Small,Web Developer,KMP,1,Single,0.0,1630,1.0,1
+21i0320.pdf,145558,1624,Small,Web Developer,Brute Force,6,Multiple,0.001473,10086,0.706667,4
+21i0320.pdf,145558,1624,Small,Web Developer,Rabin-Karp,6,Multiple,0.003023,102,0.706667,4
+21i0320.pdf,145558,1624,Small,Web Developer,KMP,6,Multiple,0.000996,10077,0.706667,4
+21i0320.pdf,145558,1624,Small,Software Tester,Brute Force,1,Single,0.0,1717,0.0,0
+21i0320.pdf,145558,1624,Small,Software Tester,Rabin-Karp,1,Single,0.000997,17,0.0,0
+21i0320.pdf,145558,1624,Small,Software Tester,KMP,1,Single,0.0,1707,0.0,0
+21i0320.pdf,145558,1624,Small,Software Tester,Brute Force,5,Multiple,0.001003,8361,0.0,0
+21i0320.pdf,145558,1624,Small,Software Tester,Rabin-Karp,5,Multiple,0.001004,76,0.0,0
+21i0320.pdf,145558,1624,Small,Software Tester,KMP,5,Multiple,0.00217,8360,0.0,0
+21i0340 (2).docx,8983,2177,Small,Data Scientist,Brute Force,1,Single,0.0,2230,1.0,1
+21i0340 (2).docx,8983,2177,Small,Data Scientist,Rabin-Karp,1,Single,0.0,32,1.0,1
+21i0340 (2).docx,8983,2177,Small,Data Scientist,KMP,1,Single,0.0,2221,1.0,1
+21i0340 (2).docx,8983,2177,Small,Data Scientist,Brute Force,5,Multiple,0.002013,11419,0.84,4
+21i0340 (2).docx,8983,2177,Small,Data Scientist,Rabin-Karp,5,Multiple,0.001995,185,0.84,4
+21i0340 (2).docx,8983,2177,Small,Data Scientist,KMP,5,Multiple,0.001005,11317,0.84,4
+21i0340 (2).docx,8983,2177,Small,Web Developer,Brute Force,1,Single,0.001004,2184,1.0,1
+21i0340 (2).docx,8983,2177,Small,Web Developer,Rabin-Karp,1,Single,0.0,38,1.0,1
+21i0340 (2).docx,8983,2177,Small,Web Developer,KMP,1,Single,0.0,2184,1.0,1
+21i0340 (2).docx,8983,2177,Small,Web Developer,Brute Force,6,Multiple,0.001993,13526,0.883333,5
+21i0340 (2).docx,8983,2177,Small,Web Developer,Rabin-Karp,6,Multiple,0.002006,168,0.883333,5
+21i0340 (2).docx,8983,2177,Small,Web Developer,KMP,6,Multiple,0.001997,13505,0.883333,5
+21i0340 (2).docx,8983,2177,Small,Software Tester,Brute Force,1,Single,0.0,2342,0.0,0
+21i0340 (2).docx,8983,2177,Small,Software Tester,Rabin-Karp,1,Single,0.001003,22,0.0,0
+21i0340 (2).docx,8983,2177,Small,Software Tester,KMP,1,Single,0.0,2310,0.0,0
+21i0340 (2).docx,8983,2177,Small,Software Tester,Brute Force,5,Multiple,0.002003,11238,0.0,0
+21i0340 (2).docx,8983,2177,Small,Software Tester,Rabin-Karp,5,Multiple,0.00114,118,0.0,0
+21i0340 (2).docx,8983,2177,Small,Software Tester,KMP,5,Multiple,0.001998,11207,0.0,0
+21i0340 (2).pdf,132124,2177,Small,Data Scientist,Brute Force,1,Single,0.0,2230,1.0,1
+21i0340 (2).pdf,132124,2177,Small,Data Scientist,Rabin-Karp,1,Single,0.0,32,1.0,1
+21i0340 (2).pdf,132124,2177,Small,Data Scientist,KMP,1,Single,0.0,2221,1.0,1
+21i0340 (2).pdf,132124,2177,Small,Data Scientist,Brute Force,5,Multiple,0.001634,11419,0.84,4
+21i0340 (2).pdf,132124,2177,Small,Data Scientist,Rabin-Karp,5,Multiple,0.002053,185,0.84,4
+21i0340 (2).pdf,132124,2177,Small,Data Scientist,KMP,5,Multiple,0.001507,11317,0.84,4
+21i0340 (2).pdf,132124,2177,Small,Web Developer,Brute Force,1,Single,0.001011,2184,1.0,1
+21i0340 (2).pdf,132124,2177,Small,Web Developer,Rabin-Karp,1,Single,0.0,38,1.0,1
+21i0340 (2).pdf,132124,2177,Small,Web Developer,KMP,1,Single,0.0,2184,1.0,1
+21i0340 (2).pdf,132124,2177,Small,Web Developer,Brute Force,6,Multiple,0.002001,13526,0.883333,5
+21i0340 (2).pdf,132124,2177,Small,Web Developer,Rabin-Karp,6,Multiple,0.003,168,0.883333,5
+21i0340 (2).pdf,132124,2177,Small,Web Developer,KMP,6,Multiple,0.001999,13505,0.883333,5
+21i0340 (2).pdf,132124,2177,Small,Software Tester,Brute Force,1,Single,0.0,2342,0.0,0
+21i0340 (2).pdf,132124,2177,Small,Software Tester,Rabin-Karp,1,Single,0.0,22,0.0,0
+21i0340 (2).pdf,132124,2177,Small,Software Tester,KMP,1,Single,0.0,2310,0.0,0
+21i0340 (2).pdf,132124,2177,Small,Software Tester,Brute Force,5,Multiple,0.002016,11238,0.0,0
+21i0340 (2).pdf,132124,2177,Small,Software Tester,Rabin-Karp,5,Multiple,0.002113,118,0.0,0
+21i0340 (2).pdf,132124,2177,Small,Software Tester,KMP,5,Multiple,0.00102,11207,0.0,0
+21i0340.docx,8983,2177,Small,Data Scientist,Brute Force,1,Single,0.0,2230,1.0,1
+21i0340.docx,8983,2177,Small,Data Scientist,Rabin-Karp,1,Single,0.0,32,1.0,1
+21i0340.docx,8983,2177,Small,Data Scientist,KMP,1,Single,0.000999,2221,1.0,1
+21i0340.docx,8983,2177,Small,Data Scientist,Brute Force,5,Multiple,0.000997,11419,0.84,4
+21i0340.docx,8983,2177,Small,Data Scientist,Rabin-Karp,5,Multiple,0.001999,185,0.84,4
+21i0340.docx,8983,2177,Small,Data Scientist,KMP,5,Multiple,0.000999,11317,0.84,4
+21i0340.docx,8983,2177,Small,Web Developer,Brute Force,1,Single,0.0,2184,1.0,1
+21i0340.docx,8983,2177,Small,Web Developer,Rabin-Karp,1,Single,0.001002,38,1.0,1
+21i0340.docx,8983,2177,Small,Web Developer,KMP,1,Single,0.0,2184,1.0,1
+21i0340.docx,8983,2177,Small,Web Developer,Brute Force,6,Multiple,0.000998,13526,0.883333,5
+21i0340.docx,8983,2177,Small,Web Developer,Rabin-Karp,6,Multiple,0.003002,168,0.883333,5
+21i0340.docx,8983,2177,Small,Web Developer,KMP,6,Multiple,0.000998,13505,0.883333,5
+21i0340.docx,8983,2177,Small,Software Tester,Brute Force,1,Single,0.001041,2342,0.0,0
+21i0340.docx,8983,2177,Small,Software Tester,Rabin-Karp,1,Single,0.0,22,0.0,0
+21i0340.docx,8983,2177,Small,Software Tester,KMP,1,Single,0.000974,2310,0.0,0
+21i0340.docx,8983,2177,Small,Software Tester,Brute Force,5,Multiple,0.000994,11238,0.0,0
+21i0340.docx,8983,2177,Small,Software Tester,Rabin-Karp,5,Multiple,0.000998,118,0.0,0
+21i0340.docx,8983,2177,Small,Software Tester,KMP,5,Multiple,0.000999,11207,0.0,0
+21i0340.pdf,132124,2177,Small,Data Scientist,Brute Force,1,Single,0.0,2230,1.0,1
+21i0340.pdf,132124,2177,Small,Data Scientist,Rabin-Karp,1,Single,0.0,32,1.0,1
+21i0340.pdf,132124,2177,Small,Data Scientist,KMP,1,Single,0.000998,2221,1.0,1
+21i0340.pdf,132124,2177,Small,Data Scientist,Brute Force,5,Multiple,0.001001,11419,0.84,4
+21i0340.pdf,132124,2177,Small,Data Scientist,Rabin-Karp,5,Multiple,0.001999,185,0.84,4
+21i0340.pdf,132124,2177,Small,Data Scientist,KMP,5,Multiple,0.001003,11317,0.84,4
+21i0340.pdf,132124,2177,Small,Web Developer,Brute Force,1,Single,0.0,2184,1.0,1
+21i0340.pdf,132124,2177,Small,Web Developer,Rabin-Karp,1,Single,0.001093,38,1.0,1
+21i0340.pdf,132124,2177,Small,Web Developer,KMP,1,Single,0.0,2184,1.0,1
+21i0340.pdf,132124,2177,Small,Web Developer,Brute Force,6,Multiple,0.002006,13526,0.883333,5
+21i0340.pdf,132124,2177,Small,Web Developer,Rabin-Karp,6,Multiple,0.002669,168,0.883333,5
+21i0340.pdf,132124,2177,Small,Web Developer,KMP,6,Multiple,0.001737,13505,0.883333,5
+21i0340.pdf,132124,2177,Small,Software Tester,Brute Force,1,Single,0.0,2342,0.0,0
+21i0340.pdf,132124,2177,Small,Software Tester,Rabin-Karp,1,Single,0.000999,22,0.0,0
+21i0340.pdf,132124,2177,Small,Software Tester,KMP,1,Single,0.0,2310,0.0,0
+21i0340.pdf,132124,2177,Small,Software Tester,Brute Force,5,Multiple,0.000998,11238,0.0,0
+21i0340.pdf,132124,2177,Small,Software Tester,Rabin-Karp,5,Multiple,0.002002,118,0.0,0
+21i0340.pdf,132124,2177,Small,Software Tester,KMP,5,Multiple,0.000998,11207,0.0,0

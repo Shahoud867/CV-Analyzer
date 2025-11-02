@@ -1,0 +1,31 @@
+# Intelligent CV Analyzer - Requirements
+# Phase 3: Core Application Implementation
+
+# Core dependencies for the CV analyzer application
+# Install with: pip install -r requirements.txt
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Text Extraction Libraries
+pdfminer.six>=20220524
+python-docx>=0.8.11
+
+# Data Processing and Analysis
+pandas>=1.4.0
+numpy>=1.21.0
+
+# Visualization and Reporting
+matplotlib>=3.5.0
+reportlab>=3.6.0
+
+# Database
+# sqlite3 is included with Python standard library
+
+# Development and Testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Additional utilities
+pathlib2>=2.3.0; python_version < "3.4"
+typing-extensions>=4.0.0; python_version < "3.8"
